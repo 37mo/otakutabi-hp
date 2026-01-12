@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otakutabi.37mo.com/sitemap.xml
